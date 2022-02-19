@@ -7,7 +7,7 @@ import Post from './components/Post/Post';
 
 ReactDOM.render(
   <React.StrictMode>
-    <Post />
+    <App />
   </React.StrictMode>,
   document.getElementById('root')
 );
